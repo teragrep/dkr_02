@@ -1,4 +1,4 @@
-module github.com/docker/go-plugins-helpers
+module github.com/teragrep/dkr_02
 
 go 1.13
 
